@@ -20,3 +20,6 @@ A class roster, to be filled out by the students.
 * Seema Puthyapurayil. I'm a second year Master's student at the School of Information. I just joined the class so I don't know what project I will be contributing to, but I'm excited to be here!
 * Thomas Maillart. I am a visiting post-doctoral fellow @iSchool until 2014. I might sneak into [PeerLibrary](http://peerlibrary.org/) at some point although I am currently focusing on producing decent lectures for this class.
 * [Mitar](http://mitar.tnode.com/), 2nd year CS PhD student. I am working on [PeerLibrary](http://peerlibrary.org/), an open source platform for collaborative science.
+* Lisa Jervis, second-year MIMS student. I'm taking the class because I'm jazzed about community-building, resource-sharing, and mutual aid in both my personal and professional lives. I'll be contributing to end-user documentation of [CiviCRM](http://www.civicrm.org).
+* Robyn Perry, 1st year MIMS student. I'm working on [CiviCRM](http://civicrm.org), a contact relationship management tool for the nonprofit sector. I'm interested in learning about what dynamics contribute to the most effective open source communities and projects.
+* Renu Bora, 1st year MIMS, contributing to Commom Crawl (http://commoncrawl.org)
