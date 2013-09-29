@@ -89,7 +89,7 @@ Optional :
 Required :
 
 - Axelrod, R. The Evolution of Cooperation: Revised Edition (Basic Books, 2006), revised edn. (excerpts)
-- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010). 
+- Gächter, S., von Krogh, G. & Haefliger, S. Initiating private-collective innovation: The fragility of knowledge sharing. Research Policy 39, 893-906 (2010). [link](http://www.smi.ethz.ch/news/docs/GachtervonKroghHaefliger_ResPol2010.pdf)
 
 Optional : 
 
