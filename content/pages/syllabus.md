@@ -112,7 +112,7 @@ Optional :
 
 Required :
 
-- Freeman, J. The "Tyranny of Structurelessness"
+- Freeman, J. The "Tyranny of Structurelessness" [link](http://www.jofreeman.com/joreen/tyranny.htm)
 - Fogel, K. “Social and Political Infrastructure”
 [link](http://producingoss.com/en/social-infrastructure.html)
 - Wikipedia Governance - [link](http://p2pfoundation.net/Wikipedia_-_Governance)
