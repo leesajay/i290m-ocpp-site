@@ -184,7 +184,7 @@ Explore:
 Required :
 
 - Georg von Krogh, Thomas Maillart, Stefan Haefliger, Didier Sornette, Designing Organizations for Productive Bursts (under review) 2013. (manuscript will be sent on the mailing list)
-- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://aisel.aisnet.org/misq/vol36/iss2/16/)
+- von Krogh, G., Haefliger, S., Spaeth, S. & Wallin, M. W. Carrots and rainbows: Motivation and social practice in open source software development. MIS Quarterly 36 (2012) [paper](http://web.ebscohost.com/ehost/detail?vid=4&sid=ae2976b9-3e59-4960-bb7e-5dbe6b94d419%40sessionmgr110&hid=121&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=74756698)
 
 Optional : 
 
