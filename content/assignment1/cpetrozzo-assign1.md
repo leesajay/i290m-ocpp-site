@@ -57,8 +57,8 @@ can meet the team.
 Best,
 Christine
 
-
-
+ 
+added Comments Thomas 11/6/2013 (see commit description)
 
 
 
